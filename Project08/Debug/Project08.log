@@ -1,0 +1,6 @@
+﻿  05_exp_eval(승호).c
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\Project08\05_exp_eval(승호).c(54,23): warning C4013: 'strtok'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\Project08\05_exp_eval(승호).c(54,36): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\Project08\05_exp_eval(승호).c(56,23): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\Project08\05_exp_eval(승호).c(72,38): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  Project08.vcxproj -> C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\Project08\Debug\Project08.exe
