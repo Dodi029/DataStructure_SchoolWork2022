@@ -1,0 +1,4 @@
+﻿  new smart factory.c
+C:\Users\4717j\Desktop\수업자료\2학년\1학기\자료구조\코드\Smart_Factory(승호)\new smart factory.c(100,15): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\4717j\Desktop\수업자료\2학년\1학기\자료구조\코드\Smart_Factory(승호)\new smart factory.c(205,9): warning C4101: 'err' :참조되지 않은 지역 변수입니다.
+  Smart_Factory(승호).vcxproj -> C:\Users\4717j\Desktop\수업자료\2학년\1학기\자료구조\코드\Smart_Factory(승호)\Debug\Smart_Factory(승호).exe
