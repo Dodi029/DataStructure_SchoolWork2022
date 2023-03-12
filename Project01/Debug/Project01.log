@@ -1,0 +1,9 @@
+﻿  03 seq_search.c
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\1강 수업 코드\03 seq_search.c(20,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\1강 수업 코드\03 seq_search.c(20,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\1강 수업 코드\03 seq_search.c(20,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\1강 수업 코드\03 seq_search.c(20,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\1강 수업 코드\03 seq_search.c(26,28): error C2065: 'array1': 선언되지 않은 식별자입니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\1강 수업 코드\03 seq_search.c(26,28): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\1강 수업 코드\03 seq_search.c(26,22): warning C4024: 'seq_search': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\도영\Desktop\수업자료\학교\2학년 1학기\자료구조\코드\1강 수업 코드\03 seq_search.c(30,51): error C2065: 'CLOCK_PER_SEC': 선언되지 않은 식별자입니다.
